@@ -11,10 +11,10 @@
 	</parent>
 	
 	<groupId>cl.apiservice</groupId>
-	<artifactId>eureka</artifactId>
-	<version>0.0.1</version>
+	<artifactId>eurekaserver</artifactId>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
-	<name>eureka</name>
+	<name>eurekaserver</name>
 	<description>Spring Boot de Eureka</description>
 
 	<properties>
